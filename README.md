@@ -1,6 +1,6 @@
 # Compute Canada data manager
 
-'''
+```
   usage: ./data_manager.sh -i input_folder -u email_address
     The following options are available:'
     -s, --local-endpoint: The local endpoint you want to copy data from
@@ -12,4 +12,4 @@
     -d, --delete: Delete destination folder if it already exists
     -h, --help: Print this help message
     You need to set up local and remote endpoint before using this script. If you have any issues, please contact duanjun1981@gmail.com.
-'''
+```
