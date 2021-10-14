@@ -45,7 +45,7 @@ function help_and_exit () {
 
 	cat << EOF
 
-    usage: ./data_manager.sh -i input_folder -u email_address
+    usage: ./cc_data_manager.sh -i input_folder -u email_address
 
     The following options are available:'
 
