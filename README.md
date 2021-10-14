@@ -1,7 +1,7 @@
 # Compute Canada data manager
 
 ```
-  usage: ./data_manager.sh -i input_folder -u email_address
+  usage: ./cc_data_manager.sh -i input_folder -u email_address
   
     The following options are available:'
     
